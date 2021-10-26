@@ -1,3 +1,2 @@
 # Indice-Academico
-Este es un proyecto web, basado en un sistema academico. Etsa realizado en asp.net y mvc.
-Este es un proyecto  web, basado en un sistema academico. Esta realizado en asp.net y mvc. Este puede agregar, eliminar y editar estudiantes, maestros y asignaturas.
+Este es un proyecto web, que se trata de un sistema academico basado en  asp.net y en la arquitectura mvc. Este  puede realizar las tareas de eliminar, agregar y editar estudiantes, profesores y asignaturas.
